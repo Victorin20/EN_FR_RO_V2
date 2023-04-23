@@ -1,0 +1,21 @@
+#pragma once
+#include <SFML\Audio.hpp>
+#include <SFML\Graphics.hpp>
+#include <SFML\Window.hpp>
+#include <SFML\Network.hpp>
+#include <SFML\System.hpp>
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+#include <conio.h>
+#include <string>
+#include <vector>
+#include <cmath>
+#include <fstream>
+#include <ostream>
+#include <time.h>
+#include <sstream>
+#include <Windows.h>
+#include <wtypes.h>
+#include <SFML/Window/Clipboard.hpp>
+
